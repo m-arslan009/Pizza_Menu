@@ -1,0 +1,51 @@
+const dishesList = [
+  {
+    name: "Pizza",
+    ingredients: ["dough", "tomato sauce", "mozzarella", "toppings"],
+    price: 10.99,
+    photoname: "pizza.jpg",
+    isSoldOut: false,
+  },
+  {
+    name: "Burger",
+    ingredients: ["beef patty", "lettuce", "tomato", "cheese", "bun"],
+    price: 8.99,
+    photoname: "burger.jpg",
+    isSoldOut: true,
+  },
+  {
+    name: "Fries",
+    ingredients: ["potatoes", "salt", "vegetable oil"],
+    price: 3.99,
+    photoname: "fries.jpg",
+    isSoldOut: false,
+  },
+  {
+    name: "Chicken Pieces",
+    ingredients: ["chicken", "flour", "spices", "oil"],
+    price: 6.99,
+    photoname: "checkin-pieces.jpg",
+    isSoldOut: false,
+  },
+  {
+    name: "Pasta",
+    ingredients: ["pasta", "cream", "bacon", "parmesan"],
+    price: 12.99,
+    photoname: "pasta.jpg",
+    isSoldOut: false,
+  },
+  {
+    name: "Steak",
+    ingredients: ["beef steak", "salt", "pepper", "butter"],
+    price: 15.99,
+    photoname: "steak.jpg",
+    isSoldOut: false,
+  },
+  {
+    name: "Sandwich",
+    ingredients: ["bread", "ham", "cheese", "lettuce", "mayo"],
+    price: 7.99,
+    photoname: "sandwitch.jpg",
+    isSoldOut: true,
+  },
+];
